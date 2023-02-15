@@ -12,11 +12,11 @@ Once the program has successfully converted the file, it will save the converted
 Example command line usage:
 
 -------------------------------------------------------------------------------------------------
-python convert.py
-Enter the file path: C:/Users/YourUserName/Documents/myfile.csv
-Enter the input format (csv, json, xml, or yaml): csv
-Enter the output format (csv, json, xml, or yaml): json
-Converting myfile.csv to myfile.json...
+#python convert.py
+#Enter the file path: C:/Users/YourUserName/Documents/myfile.csv
+#Enter the input format (csv, json, xml, or yaml): csv
+#Enter the output format (csv, json, xml, or yaml): json
+#Converting myfile.csv to myfile.json...
 -------------------------------------------------------------------------------------------------
 Conversion successful! Converted file saved as C:/Users/YourUserName/Documents/myfile.json
 Contributing
